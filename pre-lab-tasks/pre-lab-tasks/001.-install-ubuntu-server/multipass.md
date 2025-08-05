@@ -56,7 +56,7 @@ akoksrud:MacOS ~$ multipass set local.bridged-network=en4
 
 Go to[ https://ubuntu.com/download/server/arm](https://ubuntu.com/download/server/arm)
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Create the VM
 
@@ -147,6 +147,6 @@ Skip the chapters for the other hypervisors, continue from the "Configure Ubuntu
 
 Skip the chapters for the other hypervisors, continue from the "Configure Ubuntu Server" chapter&#x20;
 
-{% content-ref url="../002.-configure-ubuntu-server.md" %}
-[002.-configure-ubuntu-server.md](../002.-configure-ubuntu-server.md)
+{% content-ref url="../002.-configure-ubuntu-server/" %}
+[002.-configure-ubuntu-server](../002.-configure-ubuntu-server/)
 {% endcontent-ref %}

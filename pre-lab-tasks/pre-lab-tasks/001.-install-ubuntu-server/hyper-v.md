@@ -15,19 +15,19 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Tools-All -
 
 Full instructions on how to enable/install Hyper-V, or to troubleshoot this, is outside the scope of this lab guide. But in short, go to "Turn Windows Features on or off" and enable Hyper-V. See more at [https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v#enable-the-hyper-v-role-through-settings](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 
-<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="344"><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="344"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="437"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="437"><figcaption></figcaption></figure>
 
 Start by opening Hyper-V manager from the Start Menu
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="416"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt="" width="416"><figcaption></figcaption></figure>
 
 ## Creating a virtual switch
 
 To create virtual switches (Networks) to connect your Ubuntu and 9800-CL, select "Virtual Switch Manager…"
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 You want to create an "External" switch. In some other Hypervisors this is called "Bridged Adapter". This will connect the adapter of your virtual machine on the same network as your Ethernet adapter, and it will get an IP address on the same network.
 
@@ -93,6 +93,6 @@ Start your machine
 
 Skip the chapters for the other hypervisors, continue from the "Configure Ubuntu Server" chapter&#x20;
 
-{% content-ref url="../002.-configure-ubuntu-server.md" %}
-[002.-configure-ubuntu-server.md](../002.-configure-ubuntu-server.md)
+{% content-ref url="../002.-configure-ubuntu-server/" %}
+[002.-configure-ubuntu-server](../002.-configure-ubuntu-server/)
 {% endcontent-ref %}

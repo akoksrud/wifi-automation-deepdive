@@ -85,6 +85,6 @@ As a dropdown from the "Start" button you can also choose "Headless start". When
 
 Skip the chapters for the other hypervisors, continue from the "Configure Ubuntu Server" chapter&#x20;
 
-{% content-ref url="../002.-configure-ubuntu-server.md" %}
-[002.-configure-ubuntu-server.md](../002.-configure-ubuntu-server.md)
+{% content-ref url="../002.-configure-ubuntu-server/" %}
+[002.-configure-ubuntu-server](../002.-configure-ubuntu-server/)
 {% endcontent-ref %}
