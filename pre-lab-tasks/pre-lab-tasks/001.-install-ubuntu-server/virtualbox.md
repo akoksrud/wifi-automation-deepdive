@@ -22,7 +22,7 @@ In VirtualBox, a bridged/external switch is available without further configurat
 
 Go to [https://ubuntu.com/download/server](https://ubuntu.com/download/server)
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption><p>Click "Download 24.04 LTS"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click "Download 24.04 LTS"</p></figcaption></figure>
 
 ## Create the VM
 

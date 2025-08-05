@@ -9,7 +9,7 @@ cd wifi-automation
 ls -l
 ```
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To update the contents of a cloned repository, enter the direcory and do a "git pull" like this
 
@@ -17,4 +17,4 @@ To update the contents of a cloned repository, enter the direcory and do a "git 
 git pull origin main
 ```
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
