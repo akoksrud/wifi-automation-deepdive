@@ -2,11 +2,11 @@
 
 From the Explorer lage, select "Open Folder"
 
-<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt="" width="359"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1) (1).png" alt="" width="359"><figcaption></figcaption></figure>
 
 Select (or type) the wifi-automation folder that was created when you used the "git clone" command in the pre-lab tasks
 
-<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will be asked to trust the authors of the files in the folder you are opening.&#x20;
 
