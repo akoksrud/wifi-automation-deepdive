@@ -1,6 +1,6 @@
 # Table of contents
 
-## Welcome
+## Topology
 
 * [Topology](README.md)
 
