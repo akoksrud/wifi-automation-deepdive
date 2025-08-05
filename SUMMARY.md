@@ -3,7 +3,6 @@
 ## Welcome
 
 * [Topology](README.md)
-* [Welcome](welcome/welcome.md)
 
 ## Prequel
 
