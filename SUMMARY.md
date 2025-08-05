@@ -57,7 +57,7 @@
   * [112. Ansible Collections](day-1/ansible/112.-ansible-collections.md)
   * [113. Ansible in VS Code](day-1/ansible/113.-ansible-in-vs-code.md)
   * [114. Ansible-lint](day-1/ansible/114.-ansible-lint.md)
-  * [115. Explore Ansible](day-1/ansible/115.-explore-ansible.md)
+  * [115. Exercise: Gather facts](day-1/ansible/115.-exercise-gather-facts.md)
 * [YANG](day-1/yang/README.md)
   * [What is a YANG model?](day-1/yang/what-is-a-yang-model.md)
   * [121. yangcatalog.org](day-1/yang/121.-yangcatalog.org.md)
