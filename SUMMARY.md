@@ -4,10 +4,6 @@
 
 * [About the deep dive](README.md)
 
-## Topology
-
-* [Topology](<README (1).md>)
-
 ## Prequel
 
 * [Notes](prequel/notes/README.md)

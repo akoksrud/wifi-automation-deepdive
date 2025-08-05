@@ -1,6 +1,6 @@
 # 102. Test the lab environment
 
-* [ ] Check the [README (1).md](<../../../README (1).md> "mention")
+* [ ] Check the [Broken link](broken-reference "mention")
 * [ ] Connect your laptop to the wired network
   * Ensure you get DHCP in the range 192.168.10.71-250
   * Ensure you get internet access through the wired connection
