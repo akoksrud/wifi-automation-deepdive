@@ -8,7 +8,7 @@ VirtualBox is only recommended if you can not run Hyper-V (Win) or Multipass (Ma
 
 Download from [https://virtualbox.org/](https://virtualbox.org/)
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 * You will need admin privileges to install VirtualBox
 * Not all steps are shown here, it is mostly "next-next-next"
@@ -22,44 +22,44 @@ In VirtualBox, a bridged/external switch is available without further configurat
 
 Go to [https://ubuntu.com/download/server](https://ubuntu.com/download/server)
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Click "Download 24.04 LTS"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Click "Download 24.04 LTS"</p></figcaption></figure>
 
 ## Create the VM
 
 Open VirtualBox
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 Machine -> New...
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 Configure the following:\
 1\. Name, folder and select the ISO that you downloaded\
 2\. Select type "Linux", Subtype "Ubuntu" and Version "Ubuntu (64-bit)"\
 3\. Check "Skip Unattended Installation"
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Expand the «Hardware» section. Increase Base Memory to 4096MB
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Expand the «Hard Disk» section. Increase to 40GB, then Finish
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select your newly created VM in the list, then click "Settings"
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "System" tab, uncheck "Floppy"
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "Display" tab, ensure "Video Memory" is at least 30MB. Keep the rest at default.
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "Storage" tab, no change is needed
 
