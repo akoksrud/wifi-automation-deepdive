@@ -84,7 +84,6 @@
   * [145. Run script from terminal](day-1/python/145.-run-script-from-terminal.md)
   * [146. Run script from VS Code](day-1/python/146.-run-script-from-vs-code.md)
 * [Grafana: Installing (optional)](day-1/grafana-installing-optional/README.md)
-  * [About this section](day-1/grafana-installing-optional/about-this-section.md)
   * [What is a TIG stack?](day-1/grafana-installing-optional/what-is-a-tig-stack.md)
   * [151. Prepare .env file](day-1/grafana-installing-optional/151.-prepare-.env-file.md)
   * [152. Prepare Telegraf](day-1/grafana-installing-optional/152.-prepare-telegraf.md)
