@@ -2,24 +2,35 @@
 
 ## Welcome
 
-* [Page 1](README.md)
+* [Topology](README.md)
+* [Welcome](welcome/welcome.md)
 
 ## Prequel
 
-* [Page 2](prequel/page-2.md)
+* [Prequel](prequel/prequel.md)
 
 ## Pre-lab tasks
 
-* [Page 3](pre-lab-tasks/page-3.md)
+* [Pre-lab tasks](pre-lab-tasks/pre-lab-tasks.md)
 
 ## Day 1
 
-* [Page 4](day-1/page-4.md)
+* [Preparations](day-1/preparations.md)
+* [Ansible](day-1/ansible.md)
+* [YANG](day-1/yang.md)
+* [Python](day-1/python.md)
+* [Grafana](day-1/grafana.md)
 
 ## Day 2
 
-* [Page 5](day-2/page-5.md)
+* [Ansible](day-2/ansible.md)
+* [Python](day-2/python.md)
+* [Grafana](day-2/grafana.md)
 
 ## Appendix
 
-* [Page 6](appendix/page-6.md)
+* [Appendix](appendix/appendix/README.md)
+  * [Create SSH key pair](appendix/appendix/create-ssh-key-pair.md)
+  * [Git](appendix/appendix/git.md)
+  * [Expand Linux disk size](appendix/appendix/expand-linux-disk-size.md)
+  * [Customize the shell](appendix/appendix/customize-the-shell.md)
