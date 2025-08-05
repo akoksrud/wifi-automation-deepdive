@@ -1,8 +1,12 @@
 # Table of contents
 
+## Wi-Fi Automation deep dive
+
+* [About the deep dive](README.md)
+
 ## Topology
 
-* [Topology](README.md)
+* [Topology](<README (1).md>)
 
 ## Prequel
 
