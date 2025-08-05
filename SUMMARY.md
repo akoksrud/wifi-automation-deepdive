@@ -7,7 +7,17 @@
 
 ## Prequel
 
-* [Prequel](prequel/prequel.md)
+* [Notes](prequel/notes/README.md)
+  * [Note: TextEdit (Mac)](prequel/notes/note-textedit-mac.md)
+  * [Note: WSL (Windows)](prequel/notes/note-wsl-windows.md)
+  * [Note: Building your own lab](prequel/notes/note-building-your-own-lab.md)
+* [Prequel](prequel/prequel/README.md)
+  * [Prerequisites](prequel/prequel/prerequisites.md)
+  * [Agenda](prequel/prequel/agenda.md)
+  * [Scope](prequel/prequel/scope.md)
+  * [Communications](prequel/prequel/communications.md)
+  * [References / Inspiration](prequel/prequel/references-inspiration.md)
+  * [Copyright](prequel/prequel/copyright.md)
 
 ## Pre-lab tasks
 
