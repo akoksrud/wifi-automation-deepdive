@@ -94,7 +94,6 @@
   * [Troubleshooting](day-1/grafana-installing-optional/troubleshooting.md)
   * [GUI config alternatives](day-1/grafana-installing-optional/gui-config-alternatives.md)
 * [Grafana: Dashboards](day-1/grafana-dashboards/README.md)
-  * [Your first Grafana dashboard](day-1/grafana-dashboards/your-first-grafana-dashboard.md)
   * [161. Prepare WLC](day-1/grafana-dashboards/161.-prepare-wlc.md)
   * [162. Check data source](day-1/grafana-dashboards/162.-check-data-source.md)
   * [163. Create the dashboard](day-1/grafana-dashboards/163.-create-the-dashboard.md)
