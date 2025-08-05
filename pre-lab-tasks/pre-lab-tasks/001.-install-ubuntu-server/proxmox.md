@@ -19,7 +19,7 @@ Full instructions on how to install Proxmox, or to troubleshoot this, is outside
 
 For production use, licenses should be aquired. For lab work, support won't be that critical, so you could run without license. Proxmox itself is open source, but the company earns their well deserved cash by offering various levels of support agreements/licensing. You will get this box each time you log in to to the Proxmox web page
 
-<figure><img src="../../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Configure repositories
 
@@ -27,15 +27,15 @@ To be able to update the proxmox server you must configure the relevant reposito
 
 1. Go to your node {server name} -> Updates -> Repositories
 
-<figure><img src="../../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Add the "No-Subscription" repository
 
-<figure><img src="../../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Disable the two Enterprise repositories
 
-<figure><img src="../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. You can then update from GUI or from CLI
 
@@ -48,7 +48,7 @@ root@proxmox5:~$ apt upgrade
 
 Go to [https://ubuntu.com/download/server](https://ubuntu.com/download/server)
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption><p>Click "Download 24.04 LTS"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption><p>Click "Download 24.04 LTS"</p></figcaption></figure>
 
 ## Create the VM
 

@@ -12,7 +12,7 @@ Visit the following link for instructions on installing Multipass on Mac:
 
 Select "macOS" in the drop down menus to get the Mac install instructions
 
-<figure><img src="../../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Full instructions on how to install Multipass, or to troubleshoot this, is outside the scope of this lab guide.&#x20;
 
@@ -56,7 +56,7 @@ akoksrud:MacOS ~$ multipass set local.bridged-network=en4
 
 Go to[ https://ubuntu.com/download/server/arm](https://ubuntu.com/download/server/arm)
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Create the VM
 
