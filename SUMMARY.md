@@ -21,7 +21,18 @@
 
 ## Pre-lab tasks
 
-* [Pre-lab tasks](pre-lab-tasks/pre-lab-tasks.md)
+* [Pre-lab tasks](pre-lab-tasks/pre-lab-tasks/README.md)
+  * [001. Install Ubuntu Server](pre-lab-tasks/pre-lab-tasks/001.-install-ubuntu-server/README.md)
+    * [Info](pre-lab-tasks/pre-lab-tasks/001.-install-ubuntu-server/info.md)
+    * [Preparations](pre-lab-tasks/pre-lab-tasks/001.-install-ubuntu-server/preparations.md)
+    * [Hyper-V](pre-lab-tasks/pre-lab-tasks/001.-install-ubuntu-server/hyper-v.md)
+    * [VirtualBox](pre-lab-tasks/pre-lab-tasks/001.-install-ubuntu-server/virtualbox.md)
+    * [Multipass](pre-lab-tasks/pre-lab-tasks/001.-install-ubuntu-server/multipass.md)
+    * [Proxmox](pre-lab-tasks/pre-lab-tasks/001.-install-ubuntu-server/proxmox.md)
+  * [002. Configure Ubuntu Server](pre-lab-tasks/pre-lab-tasks/002.-configure-ubuntu-server.md)
+  * [003. Testing Docker](pre-lab-tasks/pre-lab-tasks/003.-testing-docker.md)
+  * [004. Postman](pre-lab-tasks/pre-lab-tasks/004.-postman.md)
+  * [005. VS Code](pre-lab-tasks/pre-lab-tasks/005.-vs-code.md)
 
 ## Day 1
 
