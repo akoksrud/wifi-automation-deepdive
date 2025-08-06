@@ -15,6 +15,7 @@
   * [Note: Links in this doc](prequel/notes/note-links-in-this-doc.md)
   * [Note: WSL (Windows)](prequel/notes/note-wsl-windows.md)
   * [Note: Building your own lab](prequel/notes/note-building-your-own-lab.md)
+  * [Note: PDF and PPTX variants](prequel/notes/note-pdf-and-pptx-variants.md)
 * [Prequel](prequel/prequel/README.md)
   * [Prerequisites](prequel/prequel/prerequisites.md)
   * [Agenda](prequel/prequel/agenda.md)
