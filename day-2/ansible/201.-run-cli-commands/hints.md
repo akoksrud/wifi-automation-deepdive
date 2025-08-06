@@ -2,7 +2,7 @@
 
 The structure of the file should be like this:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>run-cli-command-playbook.yml</p></figcaption></figure>
 
 1. Playbook header
    1. name: Name of the playbook, make it descriptive
