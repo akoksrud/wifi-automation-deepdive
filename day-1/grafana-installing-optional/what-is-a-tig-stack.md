@@ -2,9 +2,9 @@
 
 ### TIG stack overview
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Nice looking figure created by Kjetil Teigen Hansen :)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Nice looking figure created by Kjetil Teigen Hansen :)</p></figcaption></figure>
 
-### Telegraf <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">
+### Telegraf <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line">
 
 * Open Source Agent: Collects and sends metrics from databases, systems, and IoT devices
 * Versatile Monitoring: Works with databases, systems, and IoT sensors

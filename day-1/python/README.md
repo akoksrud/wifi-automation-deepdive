@@ -14,7 +14,7 @@ You can start by connecting VS Code to your Ubuntu Server if it is not already c
 
 Connect the current window to host
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select your server
 

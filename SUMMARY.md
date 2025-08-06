@@ -114,8 +114,16 @@
 
 ## Day 2
 
-* [Work in progess](day-2/work-in-progess.md)
-* [Ansible](day-2/ansible.md)
+* [About Day 2](day-2/about-day-2.md)
+* [Ansible](day-2/ansible/README.md)
+  * [201. Run CLI commands](day-2/ansible/201.-run-cli-commands.md)
+  * [202. CLI configuration](day-2/ansible/202.-cli-configuration.md)
+  * [203. Using Jinja2 templates](day-2/ansible/203.-using-jinja2-templates.md)
+  * [204. Using RESTCONF](day-2/ansible/204.-using-restconf.md)
+  * [205. Python modules](day-2/ansible/205.-python-modules.md)
+  * [206. RESTCONF + Python](day-2/ansible/206.-restconf-+-python.md)
+  * [207. Organize: import\_playbook](day-2/ansible/207.-organize-import_playbook.md)
+  * [208. Organize: Roles](day-2/ansible/208.-organize-roles.md)
 * [Python](day-2/python.md)
 * [Grafana](day-2/grafana.md)
 
