@@ -113,6 +113,7 @@
 
 ## Day 2
 
+* [Work in progess](day-2/work-in-progess.md)
 * [Ansible](day-2/ansible.md)
 * [Python](day-2/python.md)
 * [Grafana](day-2/grafana.md)

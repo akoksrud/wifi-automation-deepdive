@@ -20,3 +20,10 @@ Many thanks to my co-instructors for this deep dive. They have all been of treme
 * WLPC Prague 2024: Kjetil Teigen Hansen
 * WLPC Phoenix 2025: François Vergès
 * WLPC Prague 2025: Rasheed Hamdan
+
+### PDF and Powerpoint snapshots
+
+The PDF and Powerpoint variants are snapshots from earlier sessions and included here for reference, or anyone want to use them instead of the GitBook variant. Be warned that changes/additions will not be reflected in these snapshots, only GitBook will be updated.
+
+#### WLPC Prague '24
+
