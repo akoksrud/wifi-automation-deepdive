@@ -30,7 +30,7 @@ For each exercise, we will try to keep the following structure
     2. Example output from successful run
     3. Example solutions for most tasks is included in the "solutions" folder of the git repository you cloned in the pre-lab tasks
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Error handling
 

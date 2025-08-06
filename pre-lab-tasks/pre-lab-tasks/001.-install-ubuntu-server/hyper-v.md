@@ -15,13 +15,13 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Tools-All -
 
 Full instructions on how to enable/install Hyper-V, or to troubleshoot this, is outside the scope of this lab guide. But in short, go to "Turn Windows Features on or off" and enable Hyper-V. See more at [https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v#enable-the-hyper-v-role-through-settings](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 
-<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="344"><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="344"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="437"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="437"><figcaption></figcaption></figure>
 
 Start by opening Hyper-V manager from the Start Menu
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="416"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="416"><figcaption></figcaption></figure>
 
 ## Creating a virtual switch
 

@@ -10,7 +10,7 @@ To view the current running containers:
 docker ps
 ```
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 To view logs of the individual containers, use <kbd>docker logs \<container name></kbd> . You can also use container id instead of name.
 

@@ -16,4 +16,4 @@ To change the current document to plain text go to Format -> Make Plain Text
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Shortcut is: Shift-Cmd-T</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Shortcut is: Shift-Cmd-T</p></figcaption></figure>
