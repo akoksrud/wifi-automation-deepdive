@@ -124,8 +124,19 @@
   * [206. RESTCONF + Python](day-2/ansible/206.-restconf-+-python.md)
   * [207. Organize: import\_playbook](day-2/ansible/207.-organize-import_playbook.md)
   * [208. Organize: Roles](day-2/ansible/208.-organize-roles.md)
-* [Python](day-2/python.md)
-* [Grafana](day-2/grafana.md)
+* [Python](day-2/python/README.md)
+  * [221. Netmiko](day-2/python/221.-netmiko.md)
+  * [222. Get client table](day-2/python/222.-get-client-table.md)
+  * [223. Using AI companions](day-2/python/223.-using-ai-companions.md)
+  * [224. Using .env files](day-2/python/224.-using-.env-files.md)
+  * [225. Nornir](day-2/python/225.-nornir.md)
+  * [226. More Nornir](day-2/python/226.-more-nornir.md)
+* [Grafana](day-2/grafana/README.md)
+  * [241. Syslog Dashboard](day-2/grafana/241.-syslog-dashboard.md)
+  * [242. C9800 Dashboard](day-2/grafana/242.-c9800-dashboard.md)
+* [Cloud API (Meraki)](day-2/cloud-api-meraki/README.md)
+  * [261. Postman -> Meraki API](day-2/cloud-api-meraki/261.-postman-greater-than-meraki-api.md)
+  * [262. Python -> Meraki API](day-2/cloud-api-meraki/262.-python-greater-than-meraki-api.md)
 
 ## Appendix
 
