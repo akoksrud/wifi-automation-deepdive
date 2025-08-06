@@ -50,6 +50,6 @@ In the InfluxDB Details section you only need the Database name, which should be
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-Click the "Save & test" button. You should have some measurements found (probably 3 or 5 depending on how much you have done in this deep dive, and maybe you reuse a shared server etc)
+Click the "Save & test" button. You should have some measurements found (probably 3 or 5 depending on how much you have done in this deep dive, and maybe you reuse a shared server etc). If your WLC doesn't send anything to Telegraf yet, you will have 0 measurements found. It will be fixed in the next section: [161.-prepare-wlc.md](../grafana-dashboards/161.-prepare-wlc.md "mention")
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
