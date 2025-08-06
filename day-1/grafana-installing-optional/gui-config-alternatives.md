@@ -4,8 +4,6 @@
 
 You have created an admin token and a database by using the CLI commands of InfluxDB. InfluxDB3 doesn't come with a GUI as standard, and I have not created material for GUI alternatives of doing those operations. You can check out InfluxDB 3 Explorer (instructions might be included in a future update of this deep dive material, based on demand/feedback from previous students and test users).
 
-{% embed url="https://docs.influxdata.com/influxdb3/explorer/install?target=_blank" %}
-
 {% embed url="https://docs.influxdata.com/influxdb3/explorer/install/" %}
 
 ### Grafana GUI (create datasource)

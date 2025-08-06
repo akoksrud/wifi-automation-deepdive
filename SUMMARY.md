@@ -12,6 +12,7 @@
 
 * [Notes](prequel/notes/README.md)
   * [Note: TextEdit (Mac)](prequel/notes/note-textedit-mac.md)
+  * [Note: Links in this doc](prequel/notes/note-links-in-this-doc.md)
   * [Note: WSL (Windows)](prequel/notes/note-wsl-windows.md)
   * [Note: Building your own lab](prequel/notes/note-building-your-own-lab.md)
 * [Prequel](prequel/prequel/README.md)
