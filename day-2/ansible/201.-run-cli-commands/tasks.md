@@ -5,7 +5,7 @@
 * Create a working directory <kbd>ansible-run-cli-commands</kbd>
 * Create a playbook file <kbd>run-cli-command-playbook.yml</kbd>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
 
 * Remember to activate the automation-venv, it should show in the lower right corner of VS Code, and it should show at the beginning of the line in the terminal
 
@@ -20,7 +20,7 @@
 * Runs the command "show wireless summary | inc Max APs"
 * Output when running this on the WLC should be like this
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="411"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="411"><figcaption></figcaption></figure></div>
 
 
 
