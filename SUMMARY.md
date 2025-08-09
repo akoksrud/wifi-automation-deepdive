@@ -112,25 +112,9 @@
   * [Ideas for expanding](day-1/grafana-dashboards/ideas-for-expanding.md)
   * [Export as JSON](day-1/grafana-dashboards/export-as-json.md)
 
-## Day 2
-
-* [About Day 2](day-2/about-day-2.md)
-
-***
-
-* [Page](page.md)
-
-## Appendix
-
-* [Appendix](appendix/appendix/README.md)
-  * [Create SSH key pair](appendix/appendix/create-ssh-key-pair.md)
-  * [Git](appendix/appendix/git.md)
-  * [Expand Linux disk size](appendix/appendix/expand-linux-disk-size.md)
-  * [Customize the shell](appendix/appendix/customize-the-shell.md)
-
 ## Day2
 
-* [About day 2](day2/about-day-2.md)
+* [About Day 2](day2/about-day-2.md)
 * [Ansible](day2/ansible/README.md)
   * [201. Run CLI commands](day2/ansible/201.-run-cli-commands/README.md)
     * [Intro](day2/ansible/201.-run-cli-commands/intro.md)
@@ -225,3 +209,11 @@
     * [Tasks](day2/cloud-api-meraki/262.-python-greater-than-meraki-api/tasks.md)
     * [Hints](day2/cloud-api-meraki/262.-python-greater-than-meraki-api/hints.md)
     * [Example solution](day2/cloud-api-meraki/262.-python-greater-than-meraki-api/example-solution.md)
+
+## Appendix
+
+* [Appendix](appendix/appendix/README.md)
+  * [Create SSH key pair](appendix/appendix/create-ssh-key-pair.md)
+  * [Git](appendix/appendix/git.md)
+  * [Expand Linux disk size](appendix/appendix/expand-linux-disk-size.md)
+  * [Customize the shell](appendix/appendix/customize-the-shell.md)
