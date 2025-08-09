@@ -17,5 +17,5 @@ We have lots of tasks to do. Feel free to make your own timeline based on intere
 
 
 {% hint style="info" %}
-If you want to follow the Powerpoint variant of the deep dive, you can find the slides from WLPC Phoenix'25 (and probably Prague'24) on [https://github.com/akoksrud/wifi-automation/tree/main/presentations](https://github.com/akoksrud/wifi-automation/tree/main/presentations)
+If you want to follow the Powerpoint variant of the deep dive, you can find the slides from WLPC Phoenix'25 (and probably Prague'24) on [note-pdf-and-pptx-variants.md](../../prequel/notes/note-pdf-and-pptx-variants.md "mention")
 {% endhint %}

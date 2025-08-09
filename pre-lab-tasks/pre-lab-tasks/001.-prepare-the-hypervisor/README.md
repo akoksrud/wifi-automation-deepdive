@@ -1,4 +1,4 @@
-# Info
+# 001. Prepare the hypervisor
 
 The lab itself will use 9800 WLCs that already run on our servers, which have Proxmox Virtual Environment installed. That is a Level 1 hypervisor (run directly on the hardware)
 
