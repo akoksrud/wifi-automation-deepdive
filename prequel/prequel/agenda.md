@@ -12,7 +12,7 @@ icon: calendar
 * Install VS Code
 * (optional) install 9800-CL
 
-### Day 1
+### Main tasks ("Day 1")
 
 * Sort out pre-lab task problems
 * Get to know the lab environment
@@ -23,7 +23,7 @@ icon: calendar
 * Explore Postman
 * Install and explore Grafana
 
-### Day 2
+### Extra tasks ("Day 2")
 
 * In-depth explore one or more of the following topics
 * Grafana / TIG-stack
