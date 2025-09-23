@@ -10,8 +10,8 @@ The deep dive is organized as follows:
 
 * Prequel: Just some informational stuff
 * Pre-lab tasks: Appx 1-2h preparations (installing apps, checking that you have accounts etc)
-* Day 1: Appx 3h "taste of everything", that is primarily Ansible, Python and Grafana stuff
-* Day 2: "Unlimited" hours of more labs within each topic. Some prefer to spend more time on day 1 tasks on day 2 as well, that is perfectly fine :relaxed:
+* Main tasks (Day 1): Appx 3h "taste of everything", that is primarily Ansible, Python and Grafana stuff
+* Extra tasks (Day 2): "Unlimited" hours of more labs within each topic. Some prefer to spend more time on the main tasks on day 2 as well, that is perfectly fine :relaxed:
 
 ### Co-instructors
 
@@ -19,4 +19,3 @@ Many thanks to my co-instructors for this deep dive. They have all been of treme
 
 * WLPC Prague 2024: Kjetil Teigen Hansen
 * WLPC Phoenix 2025: François Vergès
-* WLPC Prague 2025: Rasheed Hamdan
