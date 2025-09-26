@@ -6,13 +6,13 @@
 * Create a playbook file <kbd>restconf-playbook.yml</kbd>&#x20;
 * Copy the <kbd>hosts.yml</kbd> file from the previous tasks
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="281"><figcaption></figcaption></figure>
 
 * Remember to activate the automation-venv, it should show in the lower right corner of VS Code, and it should show at the beginning of the line in the terminal
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (26) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (27) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Task 1: Use YANG Suite (or yangcatalog.org) to find the RESTCONF path that will give details about the certificates
 

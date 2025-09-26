@@ -13,4 +13,4 @@ In this exercise, we will get the certificates on the WLC, and more specifically
 
 We will use the YANG module "Cisco-IOS-XE-crypto-pki-oper" to get operational data about the certificates
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
