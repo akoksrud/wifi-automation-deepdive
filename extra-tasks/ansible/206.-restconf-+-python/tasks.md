@@ -7,7 +7,7 @@
 * Copy the <kbd>hosts.yml</kbd> file from the previous tasks
 * Create a <kbd>library</kbd> folder with a file <kbd>update\_description.py</kbd> inside
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="269"><figcaption></figcaption></figure>
 
 * Remember to activate the automation-venv, it should show in the lower right corner of VS Code, and it should show at the beginning of the line in the terminal
 

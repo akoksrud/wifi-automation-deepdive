@@ -20,7 +20,7 @@
 * Runs the command "show wireless summary | inc Max APs"
 * Output when running this on the WLC should be like this
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="411"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="411"><figcaption></figcaption></figure></div>
 
 
 

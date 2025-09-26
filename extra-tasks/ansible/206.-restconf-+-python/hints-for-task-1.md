@@ -2,11 +2,11 @@
 
 ### Example on using YANG Suite to find the correct path
 
-<div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The screenshot below shows the placement of interface/GigabitEthernet in the Tree
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="209"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="209"><figcaption></figcaption></figure>
 
 ### Verify the path using Postman
 
