@@ -2,11 +2,11 @@
 
 1. Start by creating the task that gets the data from WLC, using the RESTCONF path we have tested in Postman
 
-<div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2. Create a simple "view" task, to easier understand and debug what we have got out. Only if the status code = 200.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="319"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="319"><figcaption></figcaption></figure>
 
 3. Create a task that will send the interface dictionary (in JSON format) to our Python module for processing. Only run this if (`when:` ) the status code from our RESTCONF call equals 200 ("OK")
 
