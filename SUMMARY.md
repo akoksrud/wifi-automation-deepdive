@@ -170,7 +170,6 @@
     * [Example solution](extra-tasks/python/222.-get-client-table/example-solution.md)
   * [223. AI companions](extra-tasks/python/223.-ai-companions/README.md)
     * [Tasks](extra-tasks/python/223.-ai-companions/tasks.md)
-    * [Hints](extra-tasks/python/223.-ai-companions/hints.md)
     * [Example solution](extra-tasks/python/223.-ai-companions/example-solution.md)
   * [224. Using .env files](extra-tasks/python/224.-using-.env-files/README.md)
     * [Tasks](extra-tasks/python/224.-using-.env-files/tasks.md)

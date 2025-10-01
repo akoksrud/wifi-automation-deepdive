@@ -5,7 +5,7 @@
 * Create a working directory <kbd>python-get-client-table</kbd>
 * Create a Python file <kbd>get-client-table.py</kbd>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="292"><figcaption></figcaption></figure>
 
 * Remember to activate the automation-venv, it should show in the lower right corner of VS Code, and it should show at the beginning of the line in the terminal
 

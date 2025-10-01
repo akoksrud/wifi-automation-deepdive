@@ -8,9 +8,9 @@
 * Create a folder `get_version` and a subfolder `tasks` which contains a playbook `main.yml`&#x20;
 * Copy the `hosts.yml` from the previous exercise
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="296"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="296"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Remember to activate the automation-venv, it should show in the lower right corner of VS Code, and it should show at the beginning of the line in the terminal
 
