@@ -2,7 +2,7 @@
 
 1. Start by creating the task that gets the data from WLC, using the RESTCONF path we have tested in Postman
 
-<div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2. Create a simple "view" task, to easier understand and debug what we have got out. Only if the status code = 200.
 

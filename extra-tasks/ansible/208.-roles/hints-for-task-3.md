@@ -4,4 +4,4 @@ The `get_max_aps` role is created in the same way as the previous role. You just
 
 The tasks in the role `main.yml` are copy-paste from [201.-run-cli-commands](../201.-run-cli-commands/ "mention"), just remember to de-indent them one level, since they are on their own and not under a "tasks:" statement
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
