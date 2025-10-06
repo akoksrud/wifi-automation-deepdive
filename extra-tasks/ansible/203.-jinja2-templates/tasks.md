@@ -7,7 +7,7 @@
 * Create a template file <kbd>policy\_profile\_template.j2</kbd>&#x20;
 * Copy the <kbd>hosts.yml</kbd> file from the previous tasks
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="281"><figcaption></figcaption></figure>
 
 * Remember to activate the automation-venv, it should show in the lower right corner of VS Code, and it should show at the beginning of the line in the terminal
 
@@ -21,7 +21,7 @@
 
 * Ensure that this policy profile is present on the WLC
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="483"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="483"><figcaption></figcaption></figure>
 
 * Verify the idempotency (changes stuff only when needed)
 

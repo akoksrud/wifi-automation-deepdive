@@ -2,7 +2,7 @@
 
 The structure of the file should be like this:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. This is where we put in the Jinja2 template file we created
 2. Now, go ahead and fill inn the "policy\_profile\_template.j2" file:

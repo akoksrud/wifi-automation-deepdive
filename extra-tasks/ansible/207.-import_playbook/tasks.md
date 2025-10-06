@@ -9,7 +9,7 @@
   * <kbd>audit-switches-playbook.yml</kbd>
   * <kbd>audit-wlcs-playbook.yml</kbd>
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="335"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt="" width="335"><figcaption></figcaption></figure>
 
 * Remember to activate the automation-venv, it should show in the lower right corner of VS Code, and it should show at the beginning of the line in the terminal
 

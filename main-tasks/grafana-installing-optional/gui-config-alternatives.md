@@ -14,11 +14,11 @@ Log in to Grafana (http://{server-ip}:3000)
 
 In the menu on the left side, navigate to <kbd>Connections > Data sources</kbd>
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click <kbd>+ Add new data source</kbd>  (you can also click the existing one if you just want to inspect it)
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select InfluxDB (you can narrow the search by typing in the search field)
 
