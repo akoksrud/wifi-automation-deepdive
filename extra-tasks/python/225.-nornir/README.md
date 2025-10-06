@@ -1,6 +1,6 @@
 # 225. Nornir
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Nornir is an automation framework written in Python. You use Python code to use Nornir (compared to Ansible where you use YAML files). As with Ansible you will have
 

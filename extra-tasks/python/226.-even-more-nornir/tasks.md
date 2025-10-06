@@ -7,7 +7,7 @@
 * Create a <kbd>hosts.yaml</kbd> file (copy from [225.-nornir](../225.-nornir/ "mention"))
 * Create a Python file <kbd>python-nornir-extended-runbook.py</kbd> . Start by copy-pasting the <kbd>netmiko-script.py</kbd> from [221.-netmiko](../221.-netmiko/ "mention")
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="281"><figcaption></figcaption></figure>
 
 * Remember to activate the automation-venv, it should show in the lower right corner of VS Code, and it should show at the beginning of the line in the terminal
 

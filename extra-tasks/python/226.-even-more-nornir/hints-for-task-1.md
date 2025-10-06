@@ -24,12 +24,12 @@ shared_wlc:
 
 Add the Nornir imports, remove the Netmiko imports
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Initialize Nornir and set the defaults
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Remove the Netmiko initialization
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="418"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="" width="418"><figcaption></figcaption></figure>

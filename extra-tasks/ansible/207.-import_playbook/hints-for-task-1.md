@@ -2,7 +2,7 @@
 
 To accommodate for more than only WLCs, we create a slightly more advanced structure for our inventory file than we have done until now
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="440"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="440"><figcaption></figcaption></figure>
 
 1. Top-level group is <kbd>all</kbd>
 2. Under <kbd>all</kbd> we have sub-group <kbd>children</kbd>

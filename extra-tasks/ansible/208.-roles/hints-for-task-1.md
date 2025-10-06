@@ -8,4 +8,4 @@ To expand this example, you could have more roles under the relevant tasks for t
 
 Our reusable roles are entered under the "roles" section in each task
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
