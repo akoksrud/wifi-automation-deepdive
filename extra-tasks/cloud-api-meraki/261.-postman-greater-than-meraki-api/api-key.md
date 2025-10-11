@@ -2,7 +2,7 @@
 
 Your API key is generated under Organization -> Configure ->API & Webhooks
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Click "Generate API Key"
 

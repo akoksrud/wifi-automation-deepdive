@@ -5,7 +5,7 @@
 * Create a working directory <kbd>python-netmiko</kbd>
 * Create a Python file <kbd>netmiko-script.py</kbd>
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="229"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt="" width="229"><figcaption></figcaption></figure>
 
 * Remember to activate the automation-venv, it should show in the lower right corner of VS Code, and it should show at the beginning of the line in the terminal
 

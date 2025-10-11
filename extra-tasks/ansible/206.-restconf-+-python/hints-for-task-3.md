@@ -2,7 +2,7 @@
 
 Now we are ready to write the Python module "update\_description.py". Lots of it will be identical to the previous Lab, but we have only one input parameter now. This will be the dictionary with the output from the RESTCONF call.
 
-<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then we do the actual reading and manipulation of the input
 

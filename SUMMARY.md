@@ -202,9 +202,10 @@
     * [getOrganizations](extra-tasks/cloud-api-meraki/261.-postman-greater-than-meraki-api/getorganizations.md)
     * [getOrganizationNetworks](extra-tasks/cloud-api-meraki/261.-postman-greater-than-meraki-api/getorganizationnetworks.md)
   * [262. Python -> Meraki API](extra-tasks/cloud-api-meraki/262.-python-greater-than-meraki-api/README.md)
-    * [Tasks](extra-tasks/cloud-api-meraki/262.-python-greater-than-meraki-api/tasks.md)
-    * [Hints](extra-tasks/cloud-api-meraki/262.-python-greater-than-meraki-api/hints.md)
-    * [Example solution](extra-tasks/cloud-api-meraki/262.-python-greater-than-meraki-api/example-solution.md)
+    * [Try the request in Postman](extra-tasks/cloud-api-meraki/262.-python-greater-than-meraki-api/try-the-request-in-postman.md)
+    * [Creating the Python script](extra-tasks/cloud-api-meraki/262.-python-greater-than-meraki-api/creating-the-python-script.md)
+    * [Filling in the first function](extra-tasks/cloud-api-meraki/262.-python-greater-than-meraki-api/filling-in-the-first-function.md)
+    * [Creating the other functions](extra-tasks/cloud-api-meraki/262.-python-greater-than-meraki-api/creating-the-other-functions.md)
 
 ## Appendix
 
