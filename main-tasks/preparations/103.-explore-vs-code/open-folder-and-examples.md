@@ -1,6 +1,6 @@
 # Open Folder and examples
 
-From the Explorer lage, select "Open Folder"
+From the Explorer page, select "Open Folder"
 
 <figure><img src="../../../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt="" width="359"><figcaption></figcaption></figure>
 
@@ -15,12 +15,12 @@ You will be asked to trust the authors of the files in the folder you are openin
 First, we will open the Ansible playbook in the examples folder. \
 Go ahead and click the file `ansible-first-playbook.yml` by opening the explorer tab, expanding the "examples" folder, and clicking the file.&#x20;
 
-You will see that in the lower right corner we will have some errors showing. That is because we haven't installed Ansible yet. We will do this later int he lab in the [Broken link](broken-reference "mention") chapter.
+You will see that in the lower right corner we will have some errors showing. That is because we haven't installed Ansible yet. We will do this later in the lab in the [111.-installing-ansible.md](../../ansible/111.-installing-ansible.md "mention") exercise.
 
 <div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (20) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-The seond example file we will open, is `python-hello-world.py` in the "examples" folder
+The second example file we will open, is `python-hello-world.py` in the "examples" folder
 
 <div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (21) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-In the lower right part of the VS Code window, you can see that Python is detected as the language for the file. We have not yet told VS Code which interpreter to use, so there is a warning box saying "Select Interpreter". We will fix this in the [Broken link](broken-reference "mention") chapter.
+In the lower right part of the VS Code window, you can see that Python is detected as the language for the file. We have not yet told VS Code which interpreter to use, so there is a warning box saying "Select Interpreter". We will fix this in the [132.-create-environment.md](../../postman/132.-create-environment.md "mention") exercise.
