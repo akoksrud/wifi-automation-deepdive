@@ -37,9 +37,9 @@ wlc:
   vars:
     ansible_connection: network_cli
     ansible_network_os: ios
-    ansible_ssh_pass: restconf-pass
-    ansible_password: restconf-pass
-    ansible_user: restconf-adm
+    ansible_ssh_pass: ChangeMe2025!
+    ansible_password: ChangeMe2025!
+    ansible_user: devnet-adm
     ansible_host_key_checking: False
 
 ```
