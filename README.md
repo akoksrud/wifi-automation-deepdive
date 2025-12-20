@@ -19,3 +19,5 @@ Many thanks to my co-instructors for this deep dive. They have all been of treme
 
 * WLPC Prague 2024: Kjetil Teigen Hansen
 * WLPC Phoenix 2025: François Vergès
+* WLPC Prague 2025: Andreas Koksrud solo show
+* WLPC Phoenix 2026: François Vergès friendly takeover solo show
