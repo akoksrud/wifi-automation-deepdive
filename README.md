@@ -4,7 +4,7 @@
 
 Welcome to the documentation for the Wi-Fi Automation Deep Dive.
 
-The material have been developed for a format of 2x 3h sessions at [WLPC](https://www.thewlpc.com/). It has been presented at WLPC 2024 in Prague, and WLPC 2025 in Phoenix. I have also presented the material as an internal class in my company. If you want to use the material for similar activities, please contact me :relaxed:
+The material have been developed for a format of 2x 3h sessions at [WLPC](https://www.thewlpc.com/). It has been presented at WLPC 2024 & 2025 in Prague, and WLPC 2025 in Phoenix. I have also presented the material as an internal class in my company. If you want to use the material for similar activities, please contact me :relaxed:
 
 The deep dive is organized as follows:
 
@@ -18,6 +18,7 @@ The deep dive is organized as follows:
 Many thanks to my co-instructors for this deep dive. They have all been of tremendous help with developing the material, testing everything, delivering the content and helping the students
 
 * WLPC Prague 2024: Kjetil Teigen Hansen
+
 * WLPC Phoenix 2025: François Vergès
 * WLPC Prague 2025: Andreas Koksrud solo show
-* WLPC Phoenix 2026: François Vergès friendly takeover solo show
+* WLPC Phoenix 2026: François Vergès & Amin SedighFar (Andreas is staying home 😔)
