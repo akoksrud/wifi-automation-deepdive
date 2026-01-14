@@ -52,12 +52,6 @@ en5     ethernet   Ethernet Adapter (en5)
 akoksrud:MacOS ~$ multipass set local.bridged-network=en4
 ```
 
-## Download Ubuntu Server
-
-Go to[ https://ubuntu.com/download/server/arm](https://ubuntu.com/download/server/arm)
-
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 ## Create the VM
 
 Create a folder for your VM
