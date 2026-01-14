@@ -8,7 +8,7 @@ Multipass is our recommendation if you will run the VMs on your Macbook
 
 Visit the following link for instructions on installing Multipass on Mac:
 
-[https://canonical.com/multipass/docs/install-multipass](https://canonical.com/multipass/docs/install-multipass)
+[https://documentation.ubuntu.com/multipass/latest/how-to-guides/install-multipass/](https://documentation.ubuntu.com/multipass/latest/how-to-guides/install-multipass/)
 
 Select "macOS" in the drop down menus to get the Mac install instructions
 
@@ -24,7 +24,7 @@ multipass   1.15.0+mac
 multipassd  1.15.0+mac
 ```
 
-## Other commands
+## Other commands (as a reference for later)
 
 ```bash
 akoksrud:MacOS ~$ multipass list
