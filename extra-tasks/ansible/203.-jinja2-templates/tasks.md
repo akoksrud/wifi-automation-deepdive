@@ -21,7 +21,7 @@
 
 * Ensure that this policy profile is present on the WLC
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="483"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="483"><figcaption></figcaption></figure>
 
 * Verify the idempotency (changes stuff only when needed)
 

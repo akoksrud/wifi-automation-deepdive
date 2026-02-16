@@ -2,7 +2,7 @@
 
 Start with the print command, printing a static text
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="417"><figcaption></figcaption></figure></div>
 

@@ -6,7 +6,7 @@ There is a very nice Collection for Postman to use the Meraki Dashboard API
 
 Click the "Meraki Dashboard API - v1.54.0" or whatever version is out when you do this exercise
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Go to the "three dots menu" and choose "Export". Then choose "Collection v2.1" and "Export"
 

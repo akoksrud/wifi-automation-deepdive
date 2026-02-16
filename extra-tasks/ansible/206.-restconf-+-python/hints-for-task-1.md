@@ -2,7 +2,7 @@
 
 ### Example on using YANG Suite to find the correct path
 
-<div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The screenshot below shows the placement of interface/GigabitEthernet in the Tree
 
