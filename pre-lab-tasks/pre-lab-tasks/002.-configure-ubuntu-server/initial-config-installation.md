@@ -56,6 +56,10 @@ When you get to this screen, make sure to select **docker** as shown, then selec
 
 <figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
+Once the installation is complete, select Reboot.
+
+_Note: On your Proxmox VM Hardware settings, you will have to remove the ISO in the CD/DVD section to make sure the server boots from the installation and not from the ISO._
+
 After your first reboot, the login will look like this
 
 <figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
@@ -73,7 +77,15 @@ ssh devnet-adm@192.168.10.102
 ```
 
 First, run the following commands to upgrade all packages to the latest version\
-After that, make sure some essential tools are installed (should be)\
+After that, make sure some essential tools are installed (should be)
+
+If docker is not installed, install it with this command:
+
+```powershell
+sudo snap install docker
+```
+
+\
 Then, add the current user to the docker group, to be able to run containers without sudo\
 Finally, reboot your system
 

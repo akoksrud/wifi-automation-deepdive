@@ -1,16 +1,16 @@
 # 102. Test the lab environment
 
-* [ ] Check the topology: [Broken link](broken-reference "mention")
+* [ ] Check the topology: [Broken link](/broken/pages/TC5B1ALsPQ2hJPWKCjZL "mention")
 * [ ] Connect your laptop to the wired network
   * Ensure you get DHCP in the range 192.168.10.71-250
   * Ensure you get internet access through the wired connection
-* [ ] Boot up your Ubuntu VM
+* [ ] Boot up your personal Ubuntu VM
   * Connect to the console of your Ubuntu VM
 * [ ] Change from DHCP to static IP
   * If you are using Multipass: [change-to-static-ip-multipass.md](change-to-static-ip-multipass.md "mention")
-  * If you are NOT using Multipass: [change-to-static-ip.md](change-to-static-ip.md "mention")
+    * If you are NOT using Multipass: [change-to-static-ip.md](change-to-static-ip.md "mention")
 * [ ] Access from your laptop to the shared devices
-  * SSH from to one or more of the shared Ubuntu servers (192.168.10.11 - .18)
+  * SSH to your designated shared Ubuntu servers (192.168.10.11 - .18) (if you don't have your local ubuntu server installed on your machine)
   * SSH and HTTPS to your designated WLC (192.168.10.51 / 53 / 55 / etc)
 
 {% hint style="info" %}
