@@ -1,7 +1,6 @@
 # Postman
 
-In this lab exercise we will\
-
+In this lab exercise we will<br>
 
 * Create a Workspace
 * Create an Environment

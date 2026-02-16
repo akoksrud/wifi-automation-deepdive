@@ -43,22 +43,19 @@ Check the updated config on the WLC:\
 
 ### Run the RESTCONF operation via Ansible
 
-Ansible task, the outlined part is the variable that was updated using the Python module\
-
+Ansible task, the outlined part is the variable that was updated using the Python module<br>
 
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 Show the original WLC config\
 ![](<../../../.gitbook/assets/image (23).png>)
 
-Run the playbook\
-
+Run the playbook<br>
 
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Show the updated WLC config\
-
+Show the updated WLC config<br>
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (27).png" alt="" width="431"><figcaption></figcaption></figure></div>

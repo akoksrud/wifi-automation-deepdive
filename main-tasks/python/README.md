@@ -6,7 +6,7 @@ In this lab we will create a Python script that
 * Gets a table of currently connected APs on the WLC
 * Saves the AP list as an Excel file
 
-Make sure that you have completed the sections [Broken link](broken-reference "mention") and [Broken link](broken-reference "mention")
+Make sure that you have completed the sections [Broken link](/broken/pages/QXJo09kivNB8Uk3nFosH "mention") and [Broken link](/broken/pages/8qkqpxi60o8lxSB6hKNM "mention")
 
 You can start by connecting VS Code to your Ubuntu Server if it is not already connected:
 

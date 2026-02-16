@@ -67,7 +67,7 @@
   * [121. yangcatalog.org](main-tasks/yang/121.-yangcatalog.org.md)
   * [122. YANG Suite](main-tasks/yang/122.-yang-suite.md)
   * [123. pyang - TODO](main-tasks/yang/123.-pyang-todo.md)
-  * [124. Install YANG Suite (optional) - TODO](main-tasks/yang/124.-install-yang-suite-optional-todo.md)
+  * [124. Install YANG Suite (optional)](main-tasks/yang/124.-install-yang-suite-optional-todo.md)
 * [Postman](main-tasks/postman/README.md)
   * [About Postman](main-tasks/postman/about-postman.md)
   * [Launching Postman](main-tasks/postman/launching-postman.md)
