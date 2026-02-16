@@ -52,7 +52,7 @@
   * [103. Explore VS Code](main-tasks/preparations/103.-explore-vs-code/README.md)
     * [Remote SSH](main-tasks/preparations/103.-explore-vs-code/remote-ssh.md)
     * [Install extensions to server](main-tasks/preparations/103.-explore-vs-code/install-extensions-to-server.md)
-    * [Open Folder and examples](main-tasks/preparations/103.-explore-vs-code/open-folder-and-examples.md)
+    * [Open Folder and Examples](main-tasks/preparations/103.-explore-vs-code/open-folder-and-examples.md)
     * [Terminal in VS Code](main-tasks/preparations/103.-explore-vs-code/terminal-in-vs-code.md)
   * [104. Create virtual environment](main-tasks/preparations/104.-create-virtual-environment.md)
 * [Ansible](main-tasks/ansible/README.md)
