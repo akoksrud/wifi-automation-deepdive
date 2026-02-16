@@ -8,6 +8,14 @@ Check that the bridged network is correct. Choose your USB dongle or ethernet po
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+When the ubuntu vm is back up and running, you should be able to see that it has an IP address in the 192.168.10.x network by running this command:
+
+```
+multipass list
+```
+
+<figure><img src="../../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+
 Once this is done, connect back to the ubuntu VM using this command:
 
 ```
