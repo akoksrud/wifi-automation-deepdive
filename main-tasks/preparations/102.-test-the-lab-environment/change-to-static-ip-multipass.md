@@ -8,7 +8,13 @@ Check that the bridged network is correct. Choose your USB dongle or ethernet po
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Copy the netplan config file to a new file and backup the old one
+Once this is done, connect back to the ubuntu VM using this command:
+
+```
+multipass shell ubuntu-devnet
+```
+
+Once inside your ubuntu server, copy the netplan config file to a new file and backup the old one
 
 ```bash
 sudo cp /etc/netplan/50-cloud-init.yaml /etc/netplan/99_config.yaml
