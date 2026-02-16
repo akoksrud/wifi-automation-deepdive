@@ -79,7 +79,8 @@ Finally, reboot your system
 
 ```bash
 sudo apt update && sudo apt upgrade -y
-sudo groupadd docker
-sudo usermod -aG docker $USER
+# Docker is not available for install as part of the initial setup anymore, we will have to do that later
+### sudo groupadd docker
+### sudo usermod -aG docker $USER
 sudo reboot
 ```
